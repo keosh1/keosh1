@@ -103,6 +103,7 @@ make -j$(nproc --all)
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keosh1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Keosh1)
 
 </div>
 
@@ -126,7 +127,7 @@ make -j$(nproc --all)
 
 ---
 
-**Last Updated:** `2025-05-27 18:01:38 UTC`
+**Last Updated:** `2025-05-27 18:04:37 UTC`
 
 ![](https://hit.yhype.me/github/profile?user_id=keosh1)
 
