@@ -109,13 +109,13 @@ make -j$(nproc --all)
 
 ---
 
-## ⚡ Quick Stats
+## ⚡ Development Stats
 
 <div align="center">
 
-| 📊 **This Week** | 🔥 **Focus Areas** |
+| 🔥 **Focus Areas** | 📈 **Current Progress** |
 |:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/wakatime?username=keosh1&theme=radical) | **AOSP Building**<br/>**C++ Development**<br/>**Shell Scripting**<br/>**Git Mastery** |
+| **AOSP Building**<br/>**C++ Development**<br/>**Shell Scripting**<br/>**Git Mastery** | ![Commits](https://img.shields.io/github/commit-activity/m/keosh1/keosh1?style=for-the-badge&theme=radical)<br/>![Last Commit](https://img.shields.io/github/last-commit/keosh1/keosh1?style=for-the-badge&theme=radical) |
 
 </div>
 
@@ -127,7 +127,7 @@ make -j$(nproc --all)
 
 ---
 
-**Last Updated:** `2025-05-27 18:04:37 UTC`
+**Last Updated:** `2025-05-27 18:07:02 UTC`
 
 ![](https://hit.yhype.me/github/profile?user_id=keosh1)
 
